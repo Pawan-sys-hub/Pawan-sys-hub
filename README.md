@@ -17,12 +17,12 @@ I am a **BCA Student at Tribhuvan University** deeply focused on the intersectio
 
 ## 🎮 Tech Stack & Arsenal
 
-### 🔮 Core Focus: AI & Scripting
+### 🔮 Core Focus: AI ENGINEER
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🛡️ Web Development (Frontend & Frameworks)
+### 🛡️ Web Development (Frontend)
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -30,9 +30,15 @@ I am a **BCA Student at Tribhuvan University** deeply focused on the intersectio
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚔️ Backend, Tools & Design
+### ⚔️ Backend & Databases
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
+
+### 🎨 UI/UX Design & Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
