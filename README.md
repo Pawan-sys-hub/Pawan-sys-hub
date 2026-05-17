@@ -49,13 +49,11 @@ I am a **BCA Student at Tribhuvan University** deeply focused on the intersectio
 <h3 align="left">👾 GitHub Activity & Metrics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawan-sys-hub&show_icons=true&theme=tokyonight&ranking_combined=true" alt="Pawan's GitHub Stats" width="48%" />
+ 
   <img src="https://streak-stats.demolab.com?user=Pawan-sys-hub&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-sys-hub&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
-</p>
+
 
 ---
 
