@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-# Hi 👋 I'm Pawan Pokharel
+# Hi 👋
 
 ## 🚀 My GitHub Stats
 
@@ -11,4 +9,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-sys-hub&layout=compact)
 
--->
