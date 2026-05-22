@@ -1,7 +1,7 @@
 # Hi there, I'm Pawan Pokharel! 🚀 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Aspiring+AI+Engineer+🤖;BCA+Student+at+TU+🎓;Web+%26+AI+Intersection+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=AI+Engineer+🤖;BCA+Student+at+TU+🎓;Web+%26+AI+Intersection+⚡" alt="Typing SVG" />
 </p>
 
 ---
