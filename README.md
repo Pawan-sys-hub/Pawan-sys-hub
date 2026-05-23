@@ -39,6 +39,7 @@ I am a **BCA Student at Tribhuvan University** deeply focused on the intersectio
 
 ### 🎨 UI/UX Design & Tools
 <p align="left">
+  
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
