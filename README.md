@@ -6,6 +6,7 @@
 
 ---
 ## 🌌 About Me
+
 I am a **BCA Student at Tribhuvan University** deeply focused on the intersection of **Web Development & Artificial Intelligence**. I love building intelligent web applications, designing sleek user interfaces, and training models to solve real-world problems.
 
 
