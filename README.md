@@ -131,21 +131,7 @@ available   : Yes — for collabs, projects, and opportunities
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F5A623&height=3&section=header" width="100%"/>
 
----
 
-## `> goals --2025`
-
-```
- [✅] Master React & modern frontend
- [✅] Go deep on Python for AI/ML
- [🔄] Deploy a full-stack ML-powered web app
- [🔄] Build & launch a personal portfolio
- [⏳] Contribute to open-source AI tooling
- [⏳] Land an internship or research role
- [⏳] Build in public — document the journey
-```
-
----
 
 ## `> activity --graph`
 
