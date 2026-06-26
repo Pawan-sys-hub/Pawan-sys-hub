@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=F5A623&center=true&vCenter=true&width=650&lines=⚡+AI+Engineer+in+the+Making;📡+BCA+Student+%40+Tribhuvan+University;🔥+Building+at+the+Web+%2B+AI+Intersection;🚀+Shipping+Code+Every+Single+Day;💡+Problems+Don't+Solve+Themselves" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=F5A623&center=true&vCenter=true&width=650&lines=%E2%9A%A1+AI+Engineer+in+the+Making;%F0%9F%93%A1+BCA+Student+%40+Tribhuvan+University;%F0%9F%94%A5+Building+at+the+Web+%2B+AI+Intersection;%F0%9F%9A%80+Shipping+Code+Every+Single+Day;%F0%9F%92%A1+Problems+Don%27t+Solve+Themselves" alt="Typing SVG" />
 
 </div>
 
@@ -130,7 +130,6 @@ available   : Yes — for collabs, projects, and opportunities
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F5A623&height=3&section=header" width="100%"/>
-
 
 
 ## `> activity --graph`
