@@ -1,134 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pawan%20Pokharel&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%E2%80%A2%20BCA%20%40%20TU%20%E2%80%A2%20Web%20%26%20AI%20Builder&descAlignY=75&descSize=16&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=20&section=header" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+intelligent+web+systems+%F0%9F%A4%96;Exploring+the+AI+%2B+Web+frontier+%E2%9A%A1;Turning+ideas+into+products+%F0%9F%9A%80;BCA+Student+%40+Tribhuvan+University+%F0%9F%8E%93" alt="Typing SVG" />
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║      ██████╗  █████╗ ██╗    ██╗ █████╗ ███╗   ██╗          ║
+║      ██╔══██╗██╔══██╗██║    ██║██╔══██╗████╗  ██║          ║
+║      ██████╔╝███████║██║ █╗ ██║███████║██╔██╗ ██║          ║
+║      ██╔═══╝ ██╔══██║██║███╗██║██╔══██║██║╚██╗██║          ║
+║      ██║     ██║  ██║╚███╔███╔╝██║  ██║██║ ╚████║          ║
+║      ╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝          ║
+║                                                              ║
+║              P O K H A R E L                                 ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=F5A623&center=true&vCenter=true&width=650&lines=⚡+AI+Engineer+in+the+Making;📡+BCA+Student+%40+Tribhuvan+University;🔥+Building+at+the+Web+%2B+AI+Intersection;🚀+Shipping+Code+Every+Single+Day;💡+Problems+Don't+Solve+Themselves" alt="Typing SVG" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Pawan-sys-hub">
-    <img src="https://img.shields.io/badge/GitHub-Pawan--sys--hub-A78BFA?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Pawan-sys-hub&color=A78BFA&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-22d3ee?style=flat-square&logo=handshake&logoColor=white" />
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-F5A623?style=for-the-badge&logoColor=black)
+&nbsp;
+![Open](https://img.shields.io/badge/OPEN%20TO-COLLABS%20%26%20INTERNSHIPS-22c55e?style=for-the-badge)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Pawan-sys-hub&color=F5A623&style=for-the-badge&label=PROFILE+HITS)
+
 </div>
 
 ---
 
-## ◈ Who Am I
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5A623&height=3&section=header" width="100%"/>
 
-```python
-class PawanPokharel:
+## `> whoami`
 
-    role       = "AI Engineer (in the making)"
-    university = "Tribhuvan University — BCA"
-    timezone   = "UTC+5:45 · Kathmandu, Nepal 🇳🇵"
-    
-    current_focus = [
-        "Python for Data Science & Machine Learning",
-        "Building AI-powered web applications",
-        "Bridging the gap between ML models and real UIs",
-    ]
-    
-    life_motto = "Ship it. Learn from it. Build the next one better."
+```yaml
+name        : Pawan Pokharel
+handle      : @Pawan-sys-hub
+location    : Kathmandu, Nepal 🇳🇵
+university  : Tribhuvan University — BCA
+identity    : AI Engineer (building towards it every day)
 
-    def __init__(self):
-        self.coffee_driven   = True
-        self.open_to_collab  = True
-        self.always_learning = True
+current_obsession:
+  - Wiring ML models into real web products
+  - Python · Data Science · Deep Learning fundamentals
+  - Designing interfaces that don't suck
+
+mindset     : "Stay hungry. Ship things. Break stuff. Fix it."
+available   : Yes — for collabs, projects, and opportunities
+```
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5A623&height=3&section=header" width="100%"/>
+
+---
+
+## `> skills --list`
+
+### 🤖 &nbsp; AI & DATA SCIENCE
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+### 🌐 &nbsp; FRONTEND
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### ⚙️ &nbsp; BACKEND & DATABASES
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+### 🛠 &nbsp; TOOLS & WORKFLOW
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5A623&height=3&section=header" width="100%"/>
+
+---
+
+## `> stats --github`
+
+<div align="center">
+
+<a href="https://github.com/Pawan-sys-hub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawan-sys-hub&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=ffffff&ring_color=F5A623" width="48%" />
+</a>
+<a href="https://github.com/Pawan-sys-hub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-sys-hub&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&text_color=ffffff&langs_count=8" width="39%" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Pawan-sys-hub&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F5A623&sideLabels=F5A623&dates=888888&stroke=F5A623" width="60%" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5A623&height=3&section=header" width="100%"/>
+
+---
+
+## `> goals --2025`
+
+```
+ [✅] Master React & modern frontend
+ [✅] Go deep on Python for AI/ML
+ [🔄] Deploy a full-stack ML-powered web app
+ [🔄] Build & launch a personal portfolio
+ [⏳] Contribute to open-source AI tooling
+ [⏳] Land an internship or research role
+ [⏳] Build in public — document the journey
 ```
 
 ---
 
-## ◈ Tech Arsenal
-
-### 🤖 AI / Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🛠 Tools & Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## ◈ GitHub Stats
+## `> activity --graph`
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawan-sys-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Pawan-sys-hub&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=f472b6&currStreakLabel=22d3ee" width="49%" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-sys-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="50%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan-sys-hub&bg_color=0d1117&color=F5A623&line=F5A623&point=ffffff&area=true&area_color=F5A62320&hide_border=true&custom_title=Pawan's%20Contribution%20Graph" width="95%" />
 
 </div>
 
----
-
-## ◈ Currently Building
-
-> 🔭 **Exploring:** Machine Learning pipelines with scikit-learn & Python  
-> 🌱 **Learning:** Deep Learning fundamentals · FastAPI · LLM integrations  
-> 🤝 **Looking to collaborate on:** AI-powered web apps, open-source ML tools  
-> 💬 **Ask me about:** React, Python, getting started with AI/ML as a student  
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5A623&height=3&section=header" width="100%"/>
 
 ---
 
-## ◈ Roadmap 2025
-
-- [x] Build a solid frontend foundation (React, JS, CSS)
-- [x] Learn Python deeply for AI/Data Science
-- [ ] Deploy a full-stack ML-powered web app
-- [ ] Contribute to open-source AI projects
-- [ ] Build & publish a personal portfolio site
-- [ ] Land a dev role or research internship
-
----
-
-## ◈ Random Dev Quote
+## `> connect --social`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Pawan--sys--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pawan-sys-hub)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=18&fontColor=A78BFA&fontAlignY=65&animation=twinkling" />
+> *"The grind is invisible until suddenly it's not."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:F5A623&height=140&section=footer&text=Keep+Building.+Keep+Shipping.&fontSize=20&fontColor=F5A623&fontAlignY=70&animation=fadeIn" />
 
 </div>
